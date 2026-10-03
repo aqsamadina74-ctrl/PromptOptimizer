@@ -1,0 +1,28 @@
+functionsDirectory = "C:\\Users\\Alee Baloch\\prompt-optimizer-deploy\\netlify\\functions"
+functionsDirectoryOrigin = "default"
+plugins = []
+headers = []
+redirects = []
+
+[build]
+publish = "C:\\Users\\Alee Baloch\\prompt-optimizer-deploy"
+publishOrigin = "default"
+functions = "C:\\Users\\Alee Baloch\\prompt-optimizer-deploy\\netlify\\functions"
+
+  [build.environment]
+
+  [build.processing]
+
+    [build.processing.css]
+
+    [build.processing.html]
+
+    [build.processing.images]
+
+    [build.processing.js]
+
+  [build.services]
+
+[functions]
+
+  [functions."*"]
